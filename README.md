@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, shall we meet? I'm <a href="https://yonda.us/" target="_blank">Yonda</a> 
+<h1 align="center">Hi there, shall we meet? I'm <a href="https://yonda.tech/" target="_blank">Yonda</a> 
 <h3 align="center">Your AI Partner Helps You Better Write, Draw and Present.</h3>
 
 <div align="center">
